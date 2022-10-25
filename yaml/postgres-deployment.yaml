@@ -31,4 +31,4 @@ spec:
               value:  scooby
              
             - name: POSTGRES_DB
-              value:  sprint
+              value:  training
