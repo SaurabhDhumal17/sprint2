@@ -42,4 +42,18 @@ kubectl apply -f sprint-service.yaml
 
 ```
 
+## Checking the deployments
+```
+kubectl get deployment
+kubectl get svc
+kubectl get pods
+
+```
+
+## To check our deployment outside the cluster
+Copy the ip address of the sprint service and view it on localhost port
+ex:
+```
+
+```
 
